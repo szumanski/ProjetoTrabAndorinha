@@ -1,0 +1,12 @@
+.idea/
+*.iml
+*.class
+*.jar
+*.lst
+target/
+
+/.classpath
+/.project
+/.settings
+/bin/
+andorinha-backend.iml
