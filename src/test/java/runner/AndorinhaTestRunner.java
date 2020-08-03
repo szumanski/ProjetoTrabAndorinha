@@ -6,11 +6,11 @@ import org.apache.openejb.junit.jee.statement.StartingStatement;
 import org.junit.runners.model.InitializationError;
 import org.junit.runners.model.Statement;
 
-public class TestRunner  extends EJBContainerRunner {
+public class AndorinhaTestRunner  extends EJBContainerRunner {
 
     private StartingStatement startingStatement;
 
-    public TestRunner(Class<?> klass) throws InitializationError {
+    public AndorinhaTestRunner(Class<?> klass) throws InitializationError {
         super(klass);
         // TODO Auto-generated constructor stub
     }
